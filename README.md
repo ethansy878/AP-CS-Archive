@@ -13,4 +13,4 @@ This repository contains the following projects, in their chronological order:
 - APCSA Java Project 2: **Blackjack Game**
 - APCSA Java Project 3: **Wordle Game**
 
-*Warning:* Code may require tweaking to run properly, projects are taken from different IDEs. See each project's respective "About.md" for more info.
+*Warning:* Code may require tweaking to run properly, projects are taken from different IDEs. See each project's respective "About.md" for more info. Also, don't put a space after the URL - instant 404 most of the time
