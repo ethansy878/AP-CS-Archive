@@ -61,11 +61,12 @@ public class Websiter {
      * M - 'ko', start of answer list
      * O - 'wo', middle of answer/valid lists
      * R - '_o', end of valid list
-     * V3: UPDATE 9/23, WTF NEW YORK TIMES
+     * V3: UPDATE 9/23, WHY NEW YORK TIMES
      * J - find javascript file
      * M - 'ft', start of answer list
      * O - 'bt', middle of answer/valid lists
      * R - 'var', end of valid list
+     * V99999: i give up
      * [IMPT NOTE!] This code relies on the javascript having
      * these key phrases. Without them, it won't work. 
      * Naturally, the program will break every now and then. */
@@ -89,7 +90,8 @@ public class Websiter {
         //System.out.println(linkJS); //<DEBUG>
         
       }
-      siteContents = linkJS;
+      //!!!NOPE, GOTTA FORCE, NOT WORKING AS OF 12.1.22 siteContents = linkJS;  
+      siteContents = "https://www.nytimes.com/games-assets/v2/wordle.c60d012dfdc21f4504811e6fde33862ad9c7d05d.js";
       //System.out.println(linkJS); //<DEBUG>
       //siteContents = "https://www.nytimes.com/games/wordle/main.4d41d2be.js"; //<DEBUG>
     }
