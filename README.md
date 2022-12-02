@@ -1,4 +1,4 @@
-#Ethan's AP CS Archive
+# Ethan's AP CS Archive
 
 *Description:* My work from my high school AP Computer Science classes, preserved.
 
