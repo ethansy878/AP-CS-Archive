@@ -1,8 +1,7 @@
 # Ethan's AP CS Archive
+My work from my high school AP Computer Science classes, preserved.
 
-*Description:* My work from my high school AP Computer Science classes, preserved.
-
-This repository contains the following projects, in their chronological order:
+This repository contains the following projects, in chronological order:
 - APCSP Scratch Summer: **Core Catastrophe**
 - APCSP Python Basic: **The Python's Pit**
 - APCSP Scratch Game: **Infiltration**
@@ -13,4 +12,4 @@ This repository contains the following projects, in their chronological order:
 - APCSA Java Project 2: **Blackjack Game**
 - APCSA Java Project 3: **Wordle Game**
 
-*Warning:* Code may require tweaking to run properly, projects are taken from different IDEs. See each project's respective "About.md" for more info. Also, don't put a space after the URL - instant 404 most of the time
+**Warning:** Code may require tweaking to run properly, projects are taken from different IDEs. See each project's respective "About.md" for more info. Also, don't put a space after URLs - instant 404 most of the time
